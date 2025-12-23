@@ -69,10 +69,3 @@ To run the training pipeline, execute the Jupyter Notebook:
 The model performance is tracked using:
 * **Training/Validation Loss**: Cross Entropy / Dice Loss.
 * **IoU (Intersection over Union)**: Measures the overlap between the predicted crack area and the ground truth.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-*Developed during Spring 2025.*
